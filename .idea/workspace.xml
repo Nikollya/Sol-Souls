@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="297e65d3-a57c-4d7f-8fcf-9f9f0a1d24f8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/frontend/src/UI/Sec2/Sec2.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/UI/Sec2/Sec2.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/UI/Sec3/Sec3.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/UI/Sec4/Sec4.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/UI/head/Sec1.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/UI/head/Sec1.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/dev/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/dev/palette.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/dev/previews.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/dev/useInitial.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/logic/Layout/Burger.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/logic/Layout/Footer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/logic/Layout/Header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/logic/Layout/Header.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/logic/Layout/Layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/index.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="com.haulmont.rcb.palette" />
+        <option value="com.haulmont.rcb.previews" />
+        <option value="com.haulmont.rcb.index" />
+        <option value="com.haulmont.rcb.useInitial" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HZL0DMFmudLrwmcdPrx4HpnV7H" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/progs/frontend/HTML/Sol-Souls",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "D:\\progs\\frontend\\HTML\\Sol-Souls\\frontend\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="ReactDesignerToolWindowState">
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.rcb.reactComponents" value="false" />
+        <entry key="com.haulmont.rcb.reactInspector" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\progs\frontend\HTML\Sol-Souls\frontend\src\logic" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/frontend/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="297e65d3-a57c-4d7f-8fcf-9f9f0a1d24f8" name="Changes" comment="" />
+      <created>1668487433340</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668487433340</updated>
+      <workItem from="1668487434725" duration="9946000" />
+      <workItem from="1668547856477" duration="22544000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

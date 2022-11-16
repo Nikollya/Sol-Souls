@@ -1,0 +1,68 @@
+.sec1 {
+  overflow:hidden;
+
+  font-family: 'Montserrat', sans-serif;
+  .sec1__content {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    .sec1__leftSide {
+      .sec1__title {
+        font-weight: 700;
+        font-size: 74px;
+        line-height: 101.5%;
+        margin-bottom: 32px;
+      }
+      .sec1__desc {
+
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 36px;
+        margin-bottom: 39px;
+      }
+      .sec1__button {
+        position: relative;
+        &::before {
+          content: "";
+          position: absolute;
+          left: 25px; bottom: 18px; /* Положение треугольника */
+          border: 10px solid transparent; /* Прозрачные границы */
+          border-top: 10px solid white; /* Добавляем треугольник */
+          transform: rotate(-90deg);
+        }
+        background-color: #CD3939;
+        color: white;
+        text-decoration: none;
+        padding: 19px 25px 19px 58px;
+
+        border-radius: 11px;
+        font-size: 14px;
+      }
+      .sec1__desc2 {
+        margin-top: 57px;
+        font-size: 14px;
+      }
+    }
+    .sec1__rightSide {
+      .sec1__img {
+        width: 100%;
+      }
+    }
+
+  }
+}
+
+
+@media (max-width: 850px) {
+  .sec1__title {
+    font-size: 42px !important;
+  }
+  .sec1__desc {
+    font-size: 15px !important;
+  }
+  .sec1__desc2 {
+    font-size: 12px !important ;
+  }
+  .sec1__content {
+    grid-template-columns: 1fr !important;
+  }
+}
