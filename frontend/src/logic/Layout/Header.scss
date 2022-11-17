@@ -45,7 +45,7 @@
 @media (max-width: 850px) {
 
   .menu__icon {
-    z-index: 5;
+    z-index: 6;
     position: relative;
     width: 30px;
     height: 18px;
@@ -99,6 +99,7 @@
     margin-bottom: 24px;
   }
   .menu__body {
+    z-index: 5;
     position: fixed;
     top: 0;
     right: -100%;
@@ -117,15 +118,6 @@
   .menu__list {
     display: flex;
     flex-direction: column;
-  }
-  .burger-menu_nav {
-    opacity: 100;
-    visibility: visible;
-    a {
-      color: #fff;
-      text-decoration: none;
-      display: flex;
-    }
   }
   .nav {
     a {

@@ -5,27 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="297e65d3-a57c-4d7f-8fcf-9f9f0a1d24f8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/frontend/src/UI/Sec2/Sec2.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/UI/Sec2/Sec2.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/UI/Sec3/Sec3.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/UI/Sec4/Sec4.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/UI/head/Sec1.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/UI/head/Sec1.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/dev/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/dev/palette.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/dev/previews.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/dev/useInitial.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/logic/Layout/Burger.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/logic/Layout/Footer.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/logic/Layout/Header.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/logic/Layout/Header.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/logic/Layout/Layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/index.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/logic/Layout/Header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/logic/Layout/Header.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +89,7 @@
       <option name="presentableId" value="Default" />
       <updated>1668487433340</updated>
       <workItem from="1668487434725" duration="9946000" />
-      <workItem from="1668547856477" duration="22544000" />
+      <workItem from="1668547856477" duration="24384000" />
     </task>
     <servers />
   </component>
