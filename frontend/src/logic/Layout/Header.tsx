@@ -1,9 +1,11 @@
 import "./Header.scss"
-import {useState} from "react";
-import {Link} from "react-router-dom";
+
+import {Context} from "../../context";
+import {useContext} from "react";
 
 export default function Header() {
-    const [isActive, setActive] = useState<boolean>(false);
+
+    const {isActive, setActive} = useContext(Context)
 
     const handleToggle = () => {
         setActive(!isActive);

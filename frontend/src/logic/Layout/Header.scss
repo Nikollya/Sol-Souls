@@ -2,7 +2,9 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
+  flex-direction: row-reverse;
 }
+
 .menu__body {
   display: flex;
   justify-content: space-between;
@@ -10,6 +12,7 @@
 }
 .menu__list {
   display: flex;
+
   a {
     color: #636363;
     text-decoration: none;
@@ -28,6 +31,7 @@
 }
 
 .menu__button {
+  font-weight: 700;
   padding: 14px 32px;
   background-color: transparent;
   border: solid #636363 1px;
@@ -123,5 +127,8 @@
     a {
       display: none;
     }
+  }
+  .header__container {
+    flex-direction: row;
   }
 }

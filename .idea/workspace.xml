@@ -5,8 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="297e65d3-a57c-4d7f-8fcf-9f9f0a1d24f8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/frontend/src/context.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.scss" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/UI/Sec2/Sec2.scss" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/UI/Sec2/Sec2.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/UI/head/Sec1.scss" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/UI/head/Sec1.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/img/head.png" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/img/head.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/src/logic/Layout/Header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/logic/Layout/Header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/logic/Layout/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/logic/Layout/Header.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/logic/Layout/Layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/logic/Layout/Layout.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +28,7 @@
         <option value="com.haulmont.rcb.previews" />
         <option value="com.haulmont.rcb.index" />
         <option value="com.haulmont.rcb.useInitial" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -34,22 +43,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/progs/frontend/HTML/Sol-Souls",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "ts.external.directory.path": "D:\\progs\\frontend\\HTML\\Sol-Souls\\frontend\\node_modules\\typescript\\lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/progs/frontend/HTML/Sol-Souls&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;D:\\progs\\frontend\\HTML\\Sol-Souls\\frontend\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="ReactDesignerToolWindowState">
     <option name="myId2Visible">
       <map>
@@ -89,7 +98,11 @@
       <option name="presentableId" value="Default" />
       <updated>1668487433340</updated>
       <workItem from="1668487434725" duration="9946000" />
-      <workItem from="1668547856477" duration="24384000" />
+      <workItem from="1668547856477" duration="24982000" />
+      <workItem from="1668707966615" duration="895000" />
+      <workItem from="1668720947941" duration="13016000" />
+      <workItem from="1668819519692" duration="1009000" />
+      <workItem from="1668866177575" duration="8682000" />
     </task>
     <servers />
   </component>

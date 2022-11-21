@@ -1,7 +1,11 @@
+@import "src/img/sec2_bg.png";
 .sec2 {
+  background: url("");
   font-family: 'Montserrat', sans-serif;
   .sec2__content {
     display: flex;
+    background: linear-gradient(360deg, #171717 -2.58%, #010101 91.03%);
+    border-radius: 12px;
     .sec2__leftSide {}
     .sec2__rightSide {
       margin-left: 11px;
