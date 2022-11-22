@@ -47,7 +47,9 @@
 
 
 @media (max-width: 850px) {
-
+  .header {
+    display: block !important;
+  }
   .menu__icon {
     z-index: 6;
     position: relative;
@@ -100,7 +102,17 @@
   .menu__link {
     display: block;
     font-size: 28px;
+    margin: 0px auto 24px;
+    /*
     margin-bottom: 24px;
+    */
+  }
+  .menu__list {
+    margin: 0 auto;
+    text-align: center;
+    li {
+      margin-right: 0;
+    }
   }
   .menu__body {
     z-index: 5;

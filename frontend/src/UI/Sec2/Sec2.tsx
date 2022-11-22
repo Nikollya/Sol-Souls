@@ -1,6 +1,7 @@
 import React from 'react';
-import mint from "../../img/mint.png"
+import mint from "../../img/img/mint.png"
 import "./Sec2.scss"
+import bg from "../../img/img/sec2_bg.png"
 
 const Sec2 = () => {
     return (
@@ -28,6 +29,7 @@ const Sec2 = () => {
                     </div>
                 </div>
             </div>
+            <img src={bg} alt="" className="sec2__bg"/>
         </div>
     );
 }
