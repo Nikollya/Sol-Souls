@@ -1,8 +1,26 @@
 .sec2 {
   font-family: 'Montserrat', sans-serif;
+  position: relative;
+  .sec2__bg {
+    z-index: 1;
+    position: absolute;
+    right: 0;
+  }
   .sec2__content {
+    width: 70%;
+    margin: auto;
+    left: 0;
+    right: 0;
+    position: absolute;
+    z-index: 2;
     display: flex;
-    .sec2__leftSide {}
+    background: linear-gradient(360deg, #171717 -2.58%, #010101 91.03%);
+    border-radius: 12px;
+    .sec2__leftSide {
+      img {
+        height: 100%;
+      }
+    }
     .sec2__rightSide {
       margin-left: 11px;
       .sec2__title {
@@ -10,25 +28,26 @@
         font-weight: 700;
         font-size: 56px;
         margin-top: 64px;
-        margin-bottom: 22px;
+        margin-bottom: 20px;
       }
       .sec2__desc {
         font-size: 18px;
-        margin-bottom: 23px;
+        margin-bottom: 20px;
       }
       .sec2__bottomSide {
+        margin-top: 50px;
         display: grid;
         grid-template-columns: 1fr 1fr;
         .sec2__bottomSide_left {
           .sec2__bottomSide_left__title {
             font-weight: 700;
             font-size: 29px;
-            margin-bottom: 32px;
+            margin-bottom: 28px;
           }
           .sec2__bottomSide_left__desc {
             font-weight: 700;
             font-size: 18px;
-            margin-bottom: 22px;
+            margin-bottom: 20px;
           }
           .sec2__bottomSide_left__receive1, .sec2__bottomSide_left__receive2 {
             font-size: 16px;
@@ -36,13 +55,16 @@
           }
         }
         .sec2__bottomSide_right {
+
           .sec2__bottomSide_right__title {
-            display: inline-block;
+            display: block;
+            max-width: 60px;
+            max-height: 47px;
             padding: 14px 32px;
             border-radius: 42px;
             background-color: rgba(205, 57, 57, 0.1);
             color: #FD5252;
-            margin-bottom: 23px;
+            margin-bottom: 20px;
           }
           .sec2__bottomSide_right__button {
             display: inline-block;
@@ -50,18 +72,31 @@
             padding: 16px 73px;
             color: white;
             text-decoration: none;
-            border-radius: 12px;
+            border-radius: 11px;
           }
         }
       }
     }
   }
 }
-@media (max-width: 850px) {
+@media (max-width: 1245px) {
     .sec2__content {
-      flex-direction: column;
+      flex-direction: column-reverse;
+
       img {
-        width: 100%;
+        display: block;
+        width: 70%;
+        margin: 0 auto;
+        border-top-left-radius: 0;
+        border-top-right-radius: 0;
       }
     }
+
+}
+@media (max-width: 850px) {
+  .sec2__content {
+    img {
+      width: 100%;
+    }
+  }
 }

@@ -1,6 +1,6 @@
 import React from 'react';
 import "./Sec1.scss"
-import head from '../../img/head.png';
+import head from '../../img/img/head.png';
 
 const Sec1 = () => {
     return (
