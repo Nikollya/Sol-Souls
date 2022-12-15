@@ -1,7 +1,7 @@
 import "./Header.scss"
 
 import {Context} from "../../context";
-import {useContext} from "react";
+import {useContext, useEffect} from "react";
 
 export default function Header() {
 

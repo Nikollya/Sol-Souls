@@ -1,0 +1,22 @@
+.sec4 {}
+.sec4__content {}
+.sec4__main-block {
+  display: flex;
+  margin: 0 auto;
+  background-color: #CD3939;
+  height: 642px;
+  max-width: 1150px;
+  border-radius: 25px;
+}
+.sec4__main-block__left-side {
+  .sec4__main-block__title {
+    font-family: 'Montserrat', sans-serif !important;
+    font-size: 52px;
+    font-weight: 700;
+    text-align: center;
+  }
+  .sec4__main-block__desc {
+    font-weight: 400;
+    font-size: 22px;
+  }
+}
