@@ -6,21 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="297e65d3-a57c-4d7f-8fcf-9f9f0a1d24f8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/App.scss" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/UI/Sec2/Sec2.scss" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/UI/Sec2/Sec2.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/UI/Sec2/Sec2.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/UI/Sec2/Sec2.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/UI/head/Sec1.scss" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/UI/head/Sec1.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/UI/head/Sec1.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/UI/head/Sec1.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/img/head.png" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/img/img/head.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/img/mint.png" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/img/img/mint.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/img/sec2_bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/img/img/sec2_bg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/logic/Layout/Burger.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/logic/Layout/Header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/logic/Layout/Header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/UI/Sec4/Sec4.scss" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/UI/Sec4/Sec4.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/UI/Sec4/Sec4.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/UI/Sec4/Sec4.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +22,7 @@
         <option value="com.haulmont.rcb.index" />
         <option value="com.haulmont.rcb.useInitial" />
         <option value="JavaScript File" />
+        <option value="TypeScript JSX File" />
       </list>
     </option>
   </component>
@@ -53,6 +41,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ShowUsagesActions.previewPropertyKey&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;last_opened_file_path&quot;: &quot;D:/progs/frontend/HTML/Sol-Souls&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -60,7 +49,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor.code.editing&quot;,
     &quot;ts.external.directory.path&quot;: &quot;D:\\progs\\frontend\\HTML\\Sol-Souls\\frontend\\node_modules\\typescript\\lib&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -109,7 +98,12 @@
       <workItem from="1668707966615" duration="895000" />
       <workItem from="1668720947941" duration="13016000" />
       <workItem from="1668819519692" duration="1009000" />
-      <workItem from="1668866177575" duration="18207000" />
+      <workItem from="1668866177575" duration="18801000" />
+      <workItem from="1669790741214" duration="1315000" />
+      <workItem from="1670074047521" duration="4834000" />
+      <workItem from="1670081647997" duration="5519000" />
+      <workItem from="1670506990323" duration="5603000" />
+      <workItem from="1671116052696" duration="3492000" />
     </task>
     <servers />
   </component>
